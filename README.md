@@ -1,18 +1,4 @@
-<h2 align="left">
-  Computer Engineering student at CESUPA (3rd semester).<br>
-  Focused on software development, cloud computing, and real-world problem solving through technology.<br>
-  Interested in backend development, embedded systems, and machine learning.<br><br>
-  📍 Belém, Brazil | 🧠 Always learning<br><br>
-  📫 caiovasconcelos01@live.com
-</h2>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiovaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiovaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">Computer Engineering student at CESUPA (3rd semester).<br>Focused on software development, cloud computing, and real-world problem solving through technology.<br>Interested in backend development, embedded systems, and machine learning.<br><br>📍 Belém, Brazil | 🧠 Always learning</h4>
 
 ###
 
@@ -38,8 +24,9 @@
 
 ###
 
-<br clear="both">
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiovaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiovaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ###
