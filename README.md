@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kiovaz/kiovaz/output/snake.svg" alt="Snake animation" />
+
 
 ###
