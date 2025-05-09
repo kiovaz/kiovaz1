@@ -1,4 +1,11 @@
-<h2 align="left">Computer Engineering student at CESUPA (3rd semester).<br>Focused on software development, cloud computing, and real-world problem solving through technology.<br>Interested in backend development, embedded systems, and machine learning.<br><br>📍 Belém, Brazil | 🧠 Always learning</h2>
+<h2 align="left">
+  Computer Engineering student at CESUPA (3rd semester).<br>
+  Focused on software development, cloud computing, and real-world problem solving through technology.<br>
+  Interested in backend development, embedded systems, and machine learning.<br><br>
+  📍 Belém, Brazil | 🧠 Always learning<br><br>
+  📫 caiovasconcelos01@live.com
+</h2>
+
 
 ###
 
@@ -36,3 +43,9 @@
 <img src="https://raw.githubusercontent.com/kiovaz/kiovaz/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiovaz/kiovaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiovaz/kiovaz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kiovaz/kiovaz/output/github-contribution-grid-snake.svg">
+</picture>
